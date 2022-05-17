@@ -1,0 +1,26 @@
+call plug#begin('~/.vim/plugged')
+
+"Fugitive Vim Github Wrapper
+Plug 'tpope/vim-fugitive'
+
+"Airline
+Plug 'bling/vim-airline'
+
+"VIM-Airline Themes
+Plug 'vim-airline/vim-airline-themes'
+
+"Nord Theme
+Plug 'arcticicestudio/nord-vim'
+
+"Autocomplete
+Plug 'valloric/youcompleteme'
+
+"The nerd tree
+Plug 'scrooloose/nerdtree'
+
+"Autopair 
+Plug 'jiangmiao/auto-pairs'
+
+call plug#end()
+
+colorscheme nord 

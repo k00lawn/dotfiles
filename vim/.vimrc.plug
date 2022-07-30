@@ -21,6 +21,9 @@ Plug 'scrooloose/nerdtree'
 "Autopair 
 Plug 'jiangmiao/auto-pairs'
 
+"NodeJS
+Plug 'moll/vim-node'
+
 call plug#end()
 
 colorscheme nord 

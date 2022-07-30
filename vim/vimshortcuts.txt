@@ -1,2 +1,2 @@
 F6 to open NERD Tree
-Ctrl + D to close terminal
+Ctrl + D to close terminal (Double tap ctrl w for switching from terminal to vim and vice versa)
